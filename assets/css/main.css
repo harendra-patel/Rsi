@@ -24243,7 +24243,7 @@ h4 {
 }
 .dropdown-menu {
   right: auto;
-  left: 73% !important;
+  left: 60% !important;
   -webkit-transform: translate(-50%, 0);
   transform: translate(-50%, 0);
 }
@@ -60331,7 +60331,7 @@ span.mk-subtitle {
   font-size: 15px;
 }
 .navbar-toggler{
-  color: white!important;
+  color: black!important;
 } 
 .csd{
   line-height: 1.5;
@@ -60351,7 +60351,7 @@ span.mk-subtitle {
 
 @media only screen and (max-width: 767px) {
   .logo-mob img{  
-    width: 35%!important;
+    width: 20%!important;
   }
   .sticky-header .affix .navbar-toggler{
     color: black!important;
